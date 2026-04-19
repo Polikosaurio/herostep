@@ -1,0 +1,50 @@
+{
+  "_comment": "HeroStep — Español",
+  "lang_code": "es",
+
+  "app_title": "HeroStep",
+
+  "audio_panel": {
+    "btn_replay": "▶ Repetir",
+    "btn_loop":   "↺ Loop",
+    "btn_mute":   "🔇 Silencio",
+    "hint_keys":  "R · repetir    L · loop    M · silencio    ESC · salir",
+    "timer_label": "⏱"
+  },
+
+  "roles": {
+    "tank":    "TANQUE",
+    "damage":  "DAÑO",
+    "support": "SOPORTE"
+  },
+
+  "statusbar": {
+    "session_progress": "Ronda: {current}/{total}",
+    "correct":          "✓ {n}",
+    "wrong":            "✗ {n}"
+  },
+
+  "summary": {
+    "title":        "HeroStep",
+    "subtitle":     "Resumen de ronda",
+    "hits":         "Aciertos: {correct} / {total}",
+    "accuracy":     "Precisión: {pct}%",
+    "avg_time":     "Tiempo medio: {seconds}s por audio",
+    "hardest":      "Más difícil: {name}",
+    "hardest_none": "Más difícil: —",
+    "btn_continue": "▶ Seguir jugando",
+    "btn_quit":     "✕ Salir"
+  },
+
+  "reset": {
+    "link_text":    "borrar stats",
+    "confirm_text": "¿Seguro? Esta acción no se puede deshacer.",
+    "btn_yes":      "Sí, reiniciar",
+    "btn_no":       "Cancelar"
+  },
+
+  "errors": {
+    "no_assets": "No se encontraron héroes. Comprueba que existen assets/chars/ y assets/steps/.",
+    "load_warn":  "No se pudo cargar: {name}"
+  }
+}

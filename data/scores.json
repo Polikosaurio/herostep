@@ -1,0 +1,308 @@
+{
+  "dva": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "doomfist": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "domina": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "hazard": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "junkerqueen": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "mauga": {
+    "weight": 74.91317210000162,
+    "hits": 4,
+    "misses": 6,
+    "total_time": 57.88857422256404
+  },
+  "orisa": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "ramattra": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "reinhardt": {
+    "weight": 57.015328715625984,
+    "hits": 5,
+    "misses": 0,
+    "total_time": 22.369793069839254
+  },
+  "roadhog": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "sigma": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "winston": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "wreckingball": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "zarya": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "anran": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "ashe": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "bastion": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "cassidy": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "metalgirl": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "emre": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "freja": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "genji": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "hanzo": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "junkrat": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "mei": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "pharah": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "reaper": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "sierra": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "sojourn": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "soldier76": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "sombra": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "symmetra": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "torbjorn": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "tracer": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "vendetta": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "venture": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "widowmaker": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "ana": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "baptiste": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "brigitte": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "illari": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "jetpackcat": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "juno": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "kiriko": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "lifeweaver": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "lucio": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "mercy": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "mizuki": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "moira": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "wuyang": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  },
+  "zenyatta": {
+    "weight": 100.0,
+    "hits": 0,
+    "misses": 0,
+    "total_time": 0.0
+  }
+}
