@@ -128,7 +128,7 @@ class HeroStep:
 
         for name in roster_names:
             img_path   = os.path.join(chars_dir, f"{name}.png")
-            audio_path = os.path.join(steps_dir, f"{name}.wav")
+            audio_path = os.path.join(steps_dir, f"{name}.ogg")  # era .wav
             if os.path.exists(img_path) and os.path.exists(audio_path):
                 try:
                     img = pygame.image.load(img_path).convert_alpha()
